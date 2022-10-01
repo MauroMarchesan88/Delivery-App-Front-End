@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3001';
+const API_URL = 'https://delivery-app-back-19.herokuapp.com/';
 const HTTP_OK = 200;
 const HTTP_CREATED = 201;
 const HTTP_CONFLICT = 409;
